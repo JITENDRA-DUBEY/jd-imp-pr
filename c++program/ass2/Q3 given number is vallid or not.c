@@ -1,0 +1,1 @@
+//jsg GIVEN NUMBER IS VALID OCTAL NUMBER OR not_a_directory

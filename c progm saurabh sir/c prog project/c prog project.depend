@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\c progm saurabh sir\c prog project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1635269272 source:d:\c progm saurabh sir\c prog project\my first prog.c
+	<stdio.h>
+	<conio.h>
+
